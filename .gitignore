@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/.vs/Sample.Project/v17/.futdcache.v1
+/.vs/Sample.Project/DesignTimeBuild/.dtbcache.v2
+/Sample.Project/bin/Debug/net6.0
+/Sample.Project/obj/Debug/net6.0
+/Sample.Project/obj
